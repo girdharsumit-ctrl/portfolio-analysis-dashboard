@@ -28,7 +28,7 @@ Built by [Sumit Girdhar](https://www.linkedin.com/in/sumitgirdhar/) with Claude 
 ## 📸 See It In Action
 
 ### Welcome Dashboard
-![Welcome Page](docs/screenshots/welcome_page.jpg)
+![Welcome Page](docs/screenshots/welcome_page.jpeg)
 *Total portfolio • Account breakdown • Cash alerts • Unknown stocks*
 
 ### Sector Analysis
