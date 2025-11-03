@@ -8,6 +8,7 @@
 
 **Alert on Welcome page:**
 ```
+ACTION REQUIRED
 ⚠️ 3 stock(s) need classification
 HUCKOO, LLY, PUCOO
 ```
