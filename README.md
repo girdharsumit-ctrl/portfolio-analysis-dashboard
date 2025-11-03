@@ -95,8 +95,8 @@ Your financial data never leaves your computer. No cloud. No API. No tracking.
 - [TROUBLESHOOTING.md](TROUBLESHOOTING.md) - Fix issues
 
 **Deep Dive:**
-- [ROADMAP.md](ROADMAP.md) - Future features & timeline
-- [PROJECTS.md](PROJECTS.md) - Detailed project info
+- [PRODUCT_ROADMAP.md](PRODUCT_ROADMAP.md) - Future features & timeline
+- [PROJECTS_RECRUITER.md](PROJECTS_RECRUITER.md) - Detailed project info
 
 ---
 
