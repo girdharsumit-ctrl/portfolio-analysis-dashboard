@@ -103,8 +103,8 @@ Your financial data never leaves your computer. No cloud. No API. No tracking.
 ## 🎯 Roadmap
 
 **v1.0 (Live Now):** Multi-account aggregation, sector analysis, alerts  
-**v1.1 (Q4 2025):** Time-based performance, holding period analysis  
-**v2.0 (2026):** Tax planning, rebalancing, risk analytics, dividends  
+**v2.0:** Time-based performance, holding period analysis  
+**v3.0:** Divident Income Tracking / Tax planning, rebalancing, risk analytics, dividends  
 
 📋 [Full roadmap with details](PRODUCT_ROADMAP.md)
 
