@@ -106,7 +106,7 @@ Your financial data never leaves your computer. No cloud. No API. No tracking.
 **v1.1 (Q4 2025):** Time-based performance, holding period analysis  
 **v2.0 (2026):** Tax planning, rebalancing, risk analytics, dividends  
 
-📋 [Full roadmap with details](ROADMAP.md)
+📋 [Full roadmap with details](PRODUCT_ROADMAP.md)
 
 ---
 
