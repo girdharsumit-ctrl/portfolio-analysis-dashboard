@@ -1,0 +1,3 @@
+Symbol,Name,Sector,Subsector
+LLY,Eli Lilly and Co,Healthcare,Pharmaceuticals
+NVO,Novo Nordisk A/S,Healthcare,Pharmaceuticals
