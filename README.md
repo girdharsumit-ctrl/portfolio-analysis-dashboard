@@ -115,10 +115,7 @@ Your financial data never leaves your computer. No cloud. No API. No tracking.
 Contributions welcome! This is open source.
 
 - 🐛 [Report bugs](https://github.com/girdharsumit-ctrl/portfolio-analysis-dashboard/issues)
-- 💡 [Suggest features](https://github.com/girdharsumit-ctrl/portfolio-analysis-dashboard/discussions)
-- ⭐ Star this repo if it helps you
-- 🔀 [Contributing guidelines](CONTRIBUTING.md)
-
+- ☕ [Buy me a coffee](buymeacoffee.com/girdharsumit) (optional)!
 ---
 
 ## 📞 Contact
